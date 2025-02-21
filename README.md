@@ -5,5 +5,5 @@
 - [QA-MDT](https://qa-mdt.github.io/)
 - [Bridge-SR](https://bridge-sr.github.io/)  
 
-**Currently Working on:**  
+**Currently working on:**  
 - [Probabilistic Generative Models for audio, speech, and music generation and enhancement.](https://github.com/ivcylc)
