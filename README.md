@@ -6,4 +6,4 @@
 - [Bridge-SR](https://bridge-sr.github.io/)  
 
 **Currently Working on:**  
-- [Probability Generative Models for audio, speech, and music generation and enhancement.](https://github.com/ivcylc)
+- [Probabilistic Generative Models for audio, speech, and music generation and enhancement.](https://github.com/ivcylc)
