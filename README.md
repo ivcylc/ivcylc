@@ -6,4 +6,4 @@
 - Bridge-SR  
 
 **Currently Working on:**  
-- Audio, speech, and music generation and enhancement
+- Audio, speech and music generation and enhancement
