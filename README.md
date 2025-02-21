@@ -1,5 +1,5 @@
 ### Chang Li
-![Chang Li](https://github-readme-stats.vercel.app/api?username=ivcylc&show_icons=true&theme=blurple)  
+![Chang Li](https://github-readme-stats.vercel.app/api?username=ivcylc&show_icons=true&theme=blurple&hide_rank=true)
 
 **First author of:**
 - [QA-MDT](https://qa-mdt.github.io/)
