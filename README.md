@@ -8,5 +8,6 @@
 - Bridge-TS
 - Bridge-SR++
 
-**Currently working on:**  
-- Probabilistic Generative Models for audio, speech, and music generation and enhancement.
+**Currently working on & Interests:**  
+- Probabilistic generative models for audio, speech, and music generation and enhancement.
+- Machine learning and signal processing.
