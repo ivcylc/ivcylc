@@ -4,7 +4,7 @@
 **Currently working on & Interests:**  
 - Probabilistic generative models for audio, speech, and music generation and enhancement.
 - Machine learning and signal processing.
-- Representation learning and its application for other fields.
+- Representation learning and its application in other fields.
 
 **Phone & Wechat & Mail:**
 - (+86) 19524292801
