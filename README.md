@@ -1,5 +1,4 @@
-### Chang Li
-![Chang Li](https://github-readme-stats.vercel.app/api?username=ivcylc&show_icons=true&theme=blurple&hide_rank=true)
+# Chang Li
 
 **Currently working on & Interests:**  
 - Probabilistic generative models for audio, speech, and music generation and enhancement.
