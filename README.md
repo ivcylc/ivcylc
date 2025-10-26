@@ -8,4 +8,5 @@
 
 **Phone & Wechat & Mail:**
 - (+86) 19524292801
+- Wechat: ivcylc
 - lc\_lca@mail.ustc.edu.cn (prefer) or 2179729554@qq.com
